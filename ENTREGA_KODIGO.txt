@@ -1,0 +1,16 @@
+========================================================================
+           ENTREGABLES PARA LA PLATAFORMA DE KODIGO
+   Actividad: Seguridad de Autenticación con Cookies httpOnly en Next.js
+========================================================================
+
+1. REPOSITORIO PÚBLICO DE GITHUB:
+   https://github.com/perezvelizgersonisai-bit/kodigo-next-supabase-auth
+
+2. ARCHIVO README.MD Y DOCUMENTACIÓN:
+   https://github.com/perezvelizgersonisai-bit/kodigo-next-supabase-auth/blob/main/README.md
+
+3. ENLACE DE APLICACIÓN DESPLEGADA EN PRODUCCIÓN (VERCEL):
+   https://kodigo-next-supabase-auth.vercel.app
+
+========================================================================
+
